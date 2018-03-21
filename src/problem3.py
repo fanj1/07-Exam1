@@ -96,7 +96,7 @@ def problem3(rect, n, window):
     """
 
     rect.attach_to(window)
-    
+
     center = rect.get_lower_right_corner()
     radius = rect.get_height() / 2
 
